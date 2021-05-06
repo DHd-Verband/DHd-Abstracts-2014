@@ -7,7 +7,7 @@ Conference-Webite: https://www.dhd2014.uni-passau.de/
 Please be aware that the texts are under the standard copyright of the authors, if not stated explicitly.
 
 This repository contains 
-- the set of individual PDF files of all contributions (folder: PDF-Dateien-einzeln)
+- the set of individual PDF files of all contributions (folder: PDF-files)
 - a comprehensive metadata file for all contributions used to upload and publish all individual contributions on zenodo (file: DHd2014_final.xml)
 - a comprehensive publication list, containing all metadata and DOIs of all contributions (file: package_DHd2014.csv)
 
